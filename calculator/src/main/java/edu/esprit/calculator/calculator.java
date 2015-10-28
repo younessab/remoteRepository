@@ -3,6 +3,7 @@ import java.util.List;
 
 public class calculator {
 public Long add(Long... params){
+	int tro;
 	Long result= 0L;
 	for(Long arg:params) {
 		result += arg;
