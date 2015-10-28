@@ -5,6 +5,7 @@ public class calculator {
 public Long add(Long... params){
 	int tro;
 	Long result= 0L;
+	int baaaaaaaa;
 	for(Long arg:params) {
 		result += arg;
 	}
