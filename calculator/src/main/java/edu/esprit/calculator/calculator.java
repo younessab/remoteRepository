@@ -10,6 +10,7 @@ public Long add(Long... params){
 	}
 	return result;
 }
+abdou
 
 public Double divide11(Double d1,Double d2){
 	
